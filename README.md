@@ -1,5 +1,7 @@
 # erlang_iso8601 #
 
+[![Build Status](https://travis-ci.org/danikp/erlang_iso8601.svg?branch=master)](https://travis-ci.org/danikp/erlang_iso8601)
+
 Formats and parses ISO 8601 dates.
 
 ## Usage ##
